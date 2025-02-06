@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "This is the second program"
+echo "Second file data"
+
+echo "Enter number: "
+read -p "num"
+echo "$num"
